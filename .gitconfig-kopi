@@ -1,0 +1,9 @@
+[alias]
+	co = checkout
+	c = commit
+	rb = rebase
+	br = branch
+	s = status
+	nb = -u origin HEAD  
+[user]
+	email = andreamariefesty@gmail.com
